@@ -1,0 +1,1 @@
+set connection string in AZURE_STORAGE_CONNECTION_STRING env variable before running the script.
